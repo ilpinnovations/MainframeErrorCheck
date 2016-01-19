@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:windowSoftInputMode="stateAlwaysHidden">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/db2" android:icon="@android:drawable/ic_menu_send"
+            android:title="DB2" />
+        <item android:id="@+id/cobol" android:icon="@android:drawable/ic_menu_send"
+            android:title="COBOL" />
+        <item android:id="@+id/jcl" android:icon="@android:drawable/ic_menu_send"
+            android:title="JCL" />
+        <item android:id="@+id/cics" android:icon="@android:drawable/ic_menu_send"
+            android:title="CICS" />
+    </group>
+
+</menu>

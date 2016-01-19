@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#185fbb</color>
+    <color name="ColorPrimaryDark">#022786</color>
+    <color name="tabsScrollColor">#100159</color>
+    <color name="gradient_start">#ccd8f0</color>
+    <color name="gradient_end">#e5e9f1</color>
+
+
+</resources>
